@@ -30,7 +30,7 @@
 
 ### 🤖 **ML & Data Science**
 python
-['Python', 'PyTorch', 'Scikit-learn', 'OpenCV', 'pandas', 'NumPy', 'Matplotlib']
+['Python', 'PyTorch', 'Scikit-learn', 'OpenCV', 'pandas', 'NumPy', 'Matplotlib'
 ⚙️ Инфраструктура & Инструменты
 python
 ['SQL', 'GitHub', 'Jupyter Notebook', 'Google Colab', 'FireDucks', 'C++']
@@ -47,6 +47,7 @@ python
 🎓 DLS и МФТИ — Deep Learning (в процессе)
 
 ✅ ОмГТУ — Машинное обучение (завершено)
+
 ---
 💡 Обо мне
 🎯 В данный момент прохожу курс от DLS и МФТИ по Deep Learning. Закончил курс по машинному обучению от ОмГТУ.
@@ -66,8 +67,7 @@ python
 
 🇺🇸 Английский — технический (чтение документации)
 
-📈 Активность
-https://github-readme-stats.vercel.app/api?username=l1tsemr&show_icons=true&theme=radical
+
 ---
 <div align="center">
 📞 Контакты
