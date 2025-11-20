@@ -29,7 +29,7 @@
 ## 🛠️ Технический стек
 
 ### 🤖 **ML & Data Science**
-```python
+python
 ['Python', 'PyTorch', 'Scikit-learn', 'OpenCV', 'pandas', 'NumPy', 'Matplotlib']
 ⚙️ Инфраструктура & Инструменты
 python
