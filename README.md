@@ -47,7 +47,7 @@ python
 🎓 DLS и МФТИ — Deep Learning (в процессе)
 
 ✅ ОмГТУ — Машинное обучение (завершено)
-
+---
 💡 Обо мне
 🎯 В данный момент прохожу курс от DLS и МФТИ по Deep Learning. Закончил курс по машинному обучению от ОмГТУ.
 💼 Заработанная плата не важна - сейчас хочу набраться практического опыта.
@@ -68,7 +68,7 @@ python
 
 📈 Активность
 https://github-readme-stats.vercel.app/api?username=l1tsemr&show_icons=true&theme=radical
-
+---
 <div align="center">
 📞 Контакты
 📧 Email: edik.ereshko12@mail.ru
